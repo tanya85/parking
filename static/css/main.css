@@ -1,0 +1,33 @@
+/* Global Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+.alert {
+/* Ми додали відстань лише зверху елемента: -top */
+    margin-top: 10px;
+}
+#footer {
+/* задаємо верхню межу елемента: ширина лінії, тип лінії, колір
+лінії */
+    border-top: 1px solid #dddddd;
+/* задаємо внутрішню відстань елемента до верхнього краю */
+    padding-top: 10px;
+}
+#rotate {
+    width: 40px;
+    height: 80px;
+}
+#place {
+    height: 100px;
+}
+#hor {
+    width: 80px;
+    height: 40px;
+}
+#passage {
+    width: 130px;
+}
+#space {
+    height: 40px;
+}
