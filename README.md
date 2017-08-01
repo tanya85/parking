@@ -1,5 +1,7 @@
 # parking
-An application should help teacher to control student's progress. First of all teacher can create, 
-edit and delete a group or student in a group. There is a table with student's precence. 
-It is like journal but not from paper.
-The progect written on Python 2.7 and Django 1.8. , SQLite
+It was an idea to create a site for parking where you can choose a place for your car like in cinema.
+On the main page you will see a parking map with all places. 
+Free place are avilliable and have another color.
+The project written with the use of Python 2.7
+
+
